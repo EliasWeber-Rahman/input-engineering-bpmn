@@ -2,8 +2,8 @@ import random
 import re
 from typing import Dict, List, NamedTuple, Tuple
 
-import config
-from noise_metrics import edit_rate
+from . import config
+from .noise_metrics import edit_rate
 
 
 class Edit(NamedTuple):
