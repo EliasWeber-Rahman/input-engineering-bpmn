@@ -1,5 +1,6 @@
 pysbd==0.3.4
 spacy==3.7.5
+click==8.4.2
 language_tool_python==3.4.0
 fastcoref==2.1.6
 ftfy==6.3.1
