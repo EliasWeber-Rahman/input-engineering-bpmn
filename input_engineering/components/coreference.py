@@ -2,7 +2,9 @@ from typing import List, Tuple
 from .base import ComponentResult
 from .. import config
 
-PRONOUNS = {"he", "she", "it", "they", "him", "her", "them", "his", "its", "their", "hers", "theirs"}
+PRONOUNS = {
+    "he", "she", "it", "they", "him", "her", "them", "his", "its", "their", "hers", "theirs", "it's",
+}
 spacy_model = None
 fastcoref_model = None
 

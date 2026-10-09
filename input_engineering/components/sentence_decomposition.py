@@ -79,14 +79,13 @@ def split_compound_sentence(sentence: str) -> List[str]:
             if word.i != conjunction_word.i:
                 second_clause_word_positions.append(word.i)
         second_clause_start = min(second_clause_word_positions)
-        second_clause_end = max(second_clause_word_positions)
 
         split_point = min(conjunction_word.i, second_clause_start)
         if split_point > 0:
             first_clause_span = parsed_sentence[0:split_point]
         else:
             first_clause_span = None
-        second_clause_span = parsed_sentence[second_clause_start: second_clause_end + 1]
+        second_clause_span = parsed_sentence[second_clause_start:]
 
         if first_clause_span is None or len(first_clause_span) == 0 or len(second_clause_span) == 0:
             continue

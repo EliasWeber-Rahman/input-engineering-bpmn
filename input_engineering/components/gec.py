@@ -1,4 +1,5 @@
 from .base import ComponentResult
+from .abbreviation import load_glossary
 
 tool = None
 
@@ -18,7 +19,12 @@ def language_tool_python_utils_correct(text: str, matches) -> str:
 
 def correct_grammar(text: str) -> ComponentResult:
     tool = get_language_tool()
+    glossary = load_glossary()
+    protected = set(glossary.get("do_not_expand", [])) | set(glossary.get("entries", {}).keys())
+
     matches = tool.check(text)
+    matches = [m for m in matches if text[m.offset:m.offset + m.error_length].strip(".,;:!?") not in protected]
+
     corrected = language_tool_python_utils_correct(text, matches)
 
     applied = []

@@ -58,42 +58,36 @@ def replace_all(text: str, definitions: Dict[str, str]) -> Tuple[str, List[dict]
     return result, applied
 
 
-def expand_abbreviations(text: str, variant: str = "deterministic") -> ComponentResult:
+def expand_abbreviations(text: str) -> ComponentResult:
     glossary = load_glossary()
     entries = glossary["entries"]
-    do_not_expand = set(glossary.get("do_not_expand", {}))
-    unresolved = set(glossary.get("unresolved", {}))
+    do_not_expand = set(glossary.get("do_not_expand", []))
 
     in_text_defs: Dict[str, str] = {}
     for acronym, long_form in find_definitions_in_text(text).items():
-        if acronym not in do_not_expand and acronym not in unresolved:
+        if acronym not in do_not_expand:
             in_text_defs[acronym] = long_form
 
     candidates = set(ACRONYM.findall(text))
     glossary_defs: Dict[str, str] = {}
     for acronym in candidates:
-        already_handled = acronym in in_text_defs or acronym in do_not_expand or acronym in unresolved
+        already_handled = acronym in in_text_defs or acronym in do_not_expand
         if acronym in entries and not already_handled:
-            glossary_defs[acronym] = entries[acronym]["expansion"]
+            glossary_defs[acronym] = entries[acronym]
 
     all_defs = dict(glossary_defs)
     all_defs.update(in_text_defs)
 
     expanded_text, applied = replace_all(text, all_defs)
 
-    skipped = []
-    for acronym in candidates:
-        if acronym in do_not_expand or acronym in unresolved:
-            skipped.append(acronym)
-    skipped.sort()
+    skipped = sorted(acronym for acronym in candidates if acronym in do_not_expand)
 
     return ComponentResult(
         text=expanded_text,
         changed=bool(applied),
         metadata={
             "component": "abbreviation",
-            "variant": variant,
             "expanded": applied,
-            "skipped_do_not_expand_or_unresolved": skipped,
+            "skipped_do_not_expand": skipped,
         },
     )
