@@ -1,0 +1,4 @@
+pysbd>=0.3.4
+spacy>=3.7,<3.8
+language_tool_python>=2.8
+fastcoref>=2.1.6
