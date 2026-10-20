@@ -157,7 +157,7 @@ def generate_pet_injected(
     generate_all("pet_injected", items, n_runs, model=model)
 
 
-RQ3_FULL_CATEGORIES = ["combined", "coreference"]
+RQ3_FULL_CATEGORIES = ["combined", "coreference", "llm_combined"]
 RQ3_LIGHT_CATEGORIES = ["normalization", "gec", "sentence_decomposition", "abbreviation"]
 
 
