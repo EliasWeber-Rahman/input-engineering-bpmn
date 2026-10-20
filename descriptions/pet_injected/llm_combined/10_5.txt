@@ -1,0 +1,1 @@
+MPON requests a device takeover bid of MPOO , it sends tender for equipment takeover to him , MPON places a order at MPOO and he confirms it and sends master data

@@ -1,0 +1,1 @@
+First Manager checks open leads and afterwards selects top five ones , then tells his Sales Assistant to call the contact person of them. Sales Assistant calls each customer , if someone is intrested he sends a note to Manager who processes the lead , otherwise he calls next

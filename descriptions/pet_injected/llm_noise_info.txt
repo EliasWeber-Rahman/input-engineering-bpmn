@@ -1,0 +1,12 @@
+How the noisy descriptions in llm_combined/ were created
+
+Date:      2026-10-15
+Model:     Claude Sonnet 5.5 (claude-sonnet-5-5)
+Tool:      Claude Cowork (interactive chat session, not a scripted or seeded run)
+Category:  llm_combined (all five noise types in one text), 35 PET descriptions
+Prompt:    llm_noise_prompt.txt
+Input:     clean/ (PET descriptions after normalization)
+Output:    llm_combined/
+Change log: llm_noise_log.json
+Measured edit rate (token-level Levenshtein / clean tokens): mean 0.435, range 0.25 to 0.75
+

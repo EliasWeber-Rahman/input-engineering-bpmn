@@ -1,0 +1,1 @@
+EC tells INQ about change of his master data , INQ notifys the IP of it and IP checks wheter data can be changed at desired time , IP confirmes the changes of INQ or rejectes them

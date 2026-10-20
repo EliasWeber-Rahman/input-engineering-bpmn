@@ -1,0 +1,16 @@
+You are given a clean business process description. Rewrite it the way a rushed employee would write it, so that it contains realistic writing noise.
+
+Rules:
+1. Meaning must stay exactly the same. Keep every step, actor, condition, number and the order of events. Do not add or remove information.
+2. Keep role codes, identifiers and proper names exactly as written (for example MPOO, GO, ACME AG, TELECO).
+3. Apply all five kinds of noise throughout the text:
+   a) Normalization: lowercase sentence starts, spaces before punctuation, missing or doubled punctuation.
+   b) Abbreviations: shorten some multi-word terms to abbreviations without defining them (dept, rep, mgr).
+   c) Spelling and grammar: typos, wrong verb forms, missing articles or prepositions.
+   d) References: replace some repeated nouns or names with pronouns (he, she, it, they, them).
+   e) Sentence structure: merge sentences into long run-on sentences using commas, and, then or otherwise.
+4. Level: change about 35 out of every 100 words.
+5. Output only the noisy description.
+
+Description:
+{description}

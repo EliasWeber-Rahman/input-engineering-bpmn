@@ -1,0 +1,1 @@
+fault detector reports a failure to the MPO or MPO has suspicion of there own fault , he shall examine it and rejects the failure of detector or confirmes it , if confirmed he informes GO and MSP about it . then MPO fixes the fault at measuring device , shares the result of repairs carried out with the detector and will inform GO and MSP about resolution of interferance

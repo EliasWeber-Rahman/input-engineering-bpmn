@@ -1,0 +1,1 @@
+GO requests measurments to MSP , MSP checks received request and denies it or performs the measurement , then informs GO about failure of reading or transmits the measured values to it. GO processes them , sends changed values to MSP and transmit the readings to SP

@@ -1,0 +1,1 @@
+MSPN registers measurement at GO , GO examines application and rejects it or confirmes it , GO then assigns MSPN and informs MSPO , MPO and SP about asignment of MSPN

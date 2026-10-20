@@ -1,0 +1,1 @@
+after a claim is registered a claims officer examines it and writes a settlement recommendation , which senior claims officer checks and may mark claim as OK or Not OK. if its Not OK it goes back to claims officer and recommendation is repeted , if OK claim handling process proceeds

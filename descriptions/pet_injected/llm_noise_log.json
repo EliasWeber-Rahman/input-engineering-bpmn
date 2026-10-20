@@ -1,0 +1,4909 @@
+{
+  "combined": {
+    "10_1": {
+      "edit_rate": 0.6551724137931034,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": "MPOO , he reviews it then opposes it or confirmes",
+          "op": "insert"
+        },
+        {
+          "original": "MPOO. The MPOO reviews the dismissal. The MPOO opposes the dismissal",
+          "noisy": "dismisal",
+          "op": "replace"
+        },
+        {
+          "original": "or the MPOO confirmes the dismissal of the MPON.",
+          "noisy": "",
+          "op": "delete"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "10_10": {
+      "edit_rate": 0.5794392523364486,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "their",
+          "noisy": "there",
+          "op": "replace"
+        },
+        {
+          "original": "fault. The MPO",
+          "noisy": "fault , he",
+          "op": "replace"
+        },
+        {
+          "original": "the failure. The MPO",
+          "noisy": "it and",
+          "op": "replace"
+        },
+        {
+          "original": "the fault",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the MPO confirms the failure of the fault detector. If the MPO confirms the failure of the fault detector,",
+          "noisy": "confirmes it , if confirmed",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the MSP. The",
+          "noisy": "MSP about it . then",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "device. The MPO",
+          "noisy": "device ,",
+          "op": "replace"
+        },
+        {
+          "original": "results",
+          "noisy": "result",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "fault detector. The MPO",
+          "noisy": "detector and",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": "and MSP",
+          "op": "insert"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the interference. The MPO will inform the MSP about the resolution of the interference.",
+          "noisy": "interferance",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "10_11": {
+      "edit_rate": 0.5555555555555556,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the measurements",
+          "noisy": "measurments",
+          "op": "replace"
+        },
+        {
+          "original": "the MSP. The",
+          "noisy": "MSP ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "request. The MSP",
+          "noisy": "request and",
+          "op": "replace"
+        },
+        {
+          "original": "the request of the GO",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "the MSP",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "measurement. The MSP",
+          "noisy": "measurement , then",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the MSP",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the GO. The",
+          "noisy": "it.",
+          "op": "replace"
+        },
+        {
+          "original": "the measured values. The GO",
+          "noisy": "them ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the MSP. The GO",
+          "noisy": "MSP and",
+          "op": "replace"
+        },
+        {
+          "original": "the SP.",
+          "noisy": "SP",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "10_12": {
+      "edit_rate": 0.45098039215686275,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "data. The",
+          "noisy": "data ,",
+          "op": "replace"
+        },
+        {
+          "original": "notifies",
+          "noisy": "notifys",
+          "op": "replace"
+        },
+        {
+          "original": "the change. The",
+          "noisy": "it and",
+          "op": "replace"
+        },
+        {
+          "original": "whether the master",
+          "noisy": "wheter",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "time. The",
+          "noisy": "time ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the IP",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the changes of the INQ.",
+          "noisy": "them",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "10_13": {
+      "edit_rate": 0.48717948717948717,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the IP. The",
+          "noisy": "IP ,",
+          "op": "replace"
+        },
+        {
+          "original": "the request of the INQ. The IP",
+          "noisy": "it and",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the examination,",
+          "noisy": "examination",
+          "op": "replace"
+        },
+        {
+          "original": "Transmission",
+          "noisy": "transmission",
+          "op": "replace"
+        },
+        {
+          "original": "rejection.",
+          "noisy": "rejection",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "10_14": {
+      "edit_rate": 0.5555555555555556,
+      "reported_changes": [
+        {
+          "original": "If the",
+          "noisy": "if",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the GO, the",
+          "noisy": "GO ,",
+          "op": "replace"
+        },
+        {
+          "original": "the bill. If the",
+          "noisy": "it , and if",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "to the GO, the GO examines the bill. If the MSPO sends the bill",
+          "noisy": "or",
+          "op": "replace"
+        },
+        {
+          "original": "the GO, the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": "it",
+          "op": "insert"
+        },
+        {
+          "original": "the bill. If the",
+          "noisy": "them to. if",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the GO, the",
+          "noisy": "GO ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the bill. The",
+          "noisy": "bill , then",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the MSPO,",
+          "noisy": "MSPO",
+          "op": "replace"
+        },
+        {
+          "original": "the GO or the MPON",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the invoice of the MPOO or the MSPO.",
+          "noisy": "it",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "10_5": {
+      "edit_rate": 0.5116279069767442,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the MPOO. The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": ", it",
+          "op": "insert"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the MPON. The",
+          "noisy": "him ,",
+          "op": "replace"
+        },
+        {
+          "original": "an",
+          "noisy": "a",
+          "op": "replace"
+        },
+        {
+          "original": "the MPOO. The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": "and he",
+          "op": "insert"
+        },
+        {
+          "original": "the order of the MPON",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "data.",
+          "noisy": "data",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "10_6": {
+      "edit_rate": 0.6333333333333333,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the MSPO. The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": ", who",
+          "op": "insert"
+        },
+        {
+          "original": "the dismissal. The MSPO",
+          "noisy": "it and",
+          "op": "replace"
+        },
+        {
+          "original": "the dismissal of the MSPN",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "the dismissal",
+          "noisy": "dismisal",
+          "op": "replace"
+        },
+        {
+          "original": "the MSPN.",
+          "noisy": "MSPN",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "10_7": {
+      "edit_rate": 0.7536231884057971,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the GO. The",
+          "noisy": "GO ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "of the MSPN. The",
+          "noisy": "and rejects it or confirmes it ,",
+          "op": "replace"
+        },
+        {
+          "original": "rejects the application of the",
+          "noisy": "then assigns",
+          "op": "replace"
+        },
+        {
+          "original": "or the GO confirmes the application of the MSPN. The GO assigns the MSPN. The GO",
+          "noisy": "and",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "about the assignment of MSPN. The GO informs the",
+          "noisy": ",",
+          "op": "replace"
+        },
+        {
+          "original": "about the assignment of the MSPN. The GO informs the",
+          "noisy": "and",
+          "op": "replace"
+        },
+        {
+          "original": "the assignment",
+          "noisy": "asignment",
+          "op": "replace"
+        },
+        {
+          "original": "MSPN.",
+          "noisy": "MSPN",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "10_8": {
+      "edit_rate": 0.6623376623376623,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the GO. The",
+          "noisy": "GO ,",
+          "op": "replace"
+        },
+        {
+          "original": "the deregistration. The GO",
+          "noisy": "deregistration and",
+          "op": "replace"
+        },
+        {
+          "original": "the deregistration of the MSPO",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "the GO",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the deregistration of the MSPO. The GO",
+          "noisy": "it ,",
+          "op": "replace"
+        },
+        {
+          "original": "MSP. The GO",
+          "noisy": "MSP and",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the assignment",
+          "noisy": "assignement",
+          "op": "replace"
+        },
+        {
+          "original": "the GO. The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "informs the",
+          "noisy": ",",
+          "op": "replace"
+        },
+        {
+          "original": "",
+          "noisy": "and SP are informed",
+          "op": "insert"
+        },
+        {
+          "original": "the assignment of the GO. The GO informs the SP about the assignment of the GO.",
+          "noisy": "it to",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "1_1": {
+      "edit_rate": 0.4779874213836478,
+      "reported_changes": [
+        {
+          "original": "A",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "bicycles. Whenever the",
+          "noisy": "bicycles , whenever",
+          "op": "replace"
+        },
+        {
+          "original": "department",
+          "noisy": "dept",
+          "op": "replace"
+        },
+        {
+          "original": "order,",
+          "noisy": "order",
+          "op": "replace"
+        },
+        {
+          "original": "created. A",
+          "noisy": "created and a",
+          "op": "replace"
+        },
+        {
+          "original": "the sales department",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "then",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "In",
+          "noisy": "in",
+          "op": "replace"
+        },
+        {
+          "original": "case, the process",
+          "noisy": "case",
+          "op": "replace"
+        },
+        {
+          "original": "finished. In",
+          "noisy": "finished , in",
+          "op": "replace"
+        },
+        {
+          "original": "case, the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "department",
+          "noisy": "dept",
+          "op": "replace"
+        },
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "immediately",
+          "noisy": "immediatly",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "part. If the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "is",
+          "noisy": ", if its",
+          "op": "replace"
+        },
+        {
+          "original": "in-house,",
+          "noisy": "in-house",
+          "op": "replace"
+        },
+        {
+          "original": "reserved. If it",
+          "noisy": "reserved otherwise back-ordered , this",
+          "op": "replace"
+        },
+        {
+          "original": "not available, it is back-ordered. This procedure is repeated",
+          "noisy": "repeted",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "In",
+          "noisy": "in",
+          "op": "replace"
+        },
+        {
+          "original": "meantime, the",
+          "noisy": "meantime",
+          "op": "replace"
+        },
+        {
+          "original": "department",
+          "noisy": "dept",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "bicycle. If the",
+          "noisy": "bicycle , if",
+          "op": "replace"
+        },
+        {
+          "original": "successfully",
+          "noisy": "successfuly",
+          "op": "replace"
+        },
+        {
+          "original": "the part",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "finished, the engineering department assembles the bicycle. Afterwards, the",
+          "noisy": "finished they assemble it. afterwards",
+          "op": "replace"
+        },
+        {
+          "original": "department",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "instance.",
+          "noisy": "instance",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "1_2": {
+      "edit_rate": 0.41,
+      "reported_changes": [
+        {
+          "original": "A",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "back. If the customer",
+          "noisy": "back , if he",
+          "op": "replace"
+        },
+        {
+          "original": "that the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "acceptable, the",
+          "noisy": "acceptable",
+          "op": "replace"
+        },
+        {
+          "original": "continues,",
+          "noisy": "continues",
+          "op": "replace"
+        },
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "activities, which are executed,",
+          "noisy": "activities executed",
+          "op": "replace"
+        },
+        {
+          "original": "an",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "order. The",
+          "noisy": "order ,",
+          "op": "replace"
+        },
+        {
+          "original": "activity",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the hardware,",
+          "noisy": "hardware",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "activity",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the software. After",
+          "noisy": "software , after",
+          "op": "replace"
+        },
+        {
+          "original": "of these activities, the",
+          "noisy": "one",
+          "op": "replace"
+        },
+        {
+          "original": "tested. If an",
+          "noisy": "tested and if a",
+          "op": "replace"
+        },
+        {
+          "original": "executed,",
+          "noisy": "executed",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "finished.",
+          "noisy": "finished",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "1_3": {
+      "edit_rate": 0.4268292682926829,
+      "reported_changes": [
+        {
+          "original": "an",
+          "noisy": "a",
+          "op": "replace"
+        },
+        {
+          "original": "hotel. When",
+          "noisy": "hotel , when",
+          "op": "replace"
+        },
+        {
+          "original": "at The Evanstonian, the",
+          "noisy": "there",
+          "op": "replace"
+        },
+        {
+          "original": "the order. She then",
+          "noisy": "order and",
+          "op": "replace"
+        },
+        {
+          "original": "an",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the food. She",
+          "noisy": "food , she",
+          "op": "replace"
+        },
+        {
+          "original": "an",
+          "noisy": "a",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "to",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "beverages. Eighty",
+          "noisy": "beverages , eighty",
+          "op": "replace"
+        },
+        {
+          "original": "room-service",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "wine or some other alcoholic beverage. Finally,",
+          "noisy": "them. finally",
+          "op": "replace"
+        },
+        {
+          "original": "the order",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "the waiter. While the",
+          "noisy": "waiter , while",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "their tasks, the waiter",
+          "noisy": "there tasks he",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "silverware). The waiter",
+          "noisy": "silverware) and",
+          "op": "replace"
+        },
+        {
+          "original": "Once the food, wine,",
+          "noisy": "once food , wine",
+          "op": "replace"
+        },
+        {
+          "original": "ready, the waiter",
+          "noisy": "ready he",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "room. After",
+          "noisy": "room , after",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "station, the waiter",
+          "noisy": "station he",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "account. The waiter",
+          "noisy": "acount but",
+          "op": "replace"
+        },
+        {
+          "original": "to do the",
+          "noisy": "with",
+          "op": "replace"
+        },
+        {
+          "original": "deliver.",
+          "noisy": "deliver",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "1_4": {
+      "edit_rate": 0.38636363636363635,
+      "reported_changes": [
+        {
+          "original": "Whenever",
+          "noisy": "whenever",
+          "op": "replace"
+        },
+        {
+          "original": "makes the decision",
+          "noisy": "decides",
+          "op": "replace"
+        },
+        {
+          "original": "public,",
+          "noisy": "public",
+          "op": "replace"
+        },
+        {
+          "original": "the underwriters. Underwriters",
+          "noisy": "underwriters , they",
+          "op": "replace"
+        },
+        {
+          "original": "issue. Usually they",
+          "noisy": "issue , usually",
+          "op": "replace"
+        },
+        {
+          "original": "First they",
+          "noisy": "first",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "advice,",
+          "noisy": "advice ,",
+          "op": "replace"
+        },
+        {
+          "original": "they",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the issue,",
+          "noisy": "issue",
+          "op": "replace"
+        },
+        {
+          "original": "finally they",
+          "noisy": "finaly",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Established underwriters",
+          "noisy": "established ones",
+          "op": "replace"
+        },
+        {
+          "original": "their",
+          "noisy": "there",
+          "op": "replace"
+        },
+        {
+          "original": "will not",
+          "noisy": "wont",
+          "op": "replace"
+        },
+        {
+          "original": "believe the",
+          "noisy": "belive",
+          "op": "replace"
+        },
+        {
+          "original": "fairly. Thus,",
+          "noisy": "fairly , thus",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "issue, the underwriters",
+          "noisy": "issue they",
+          "op": "replace"
+        },
+        {
+          "original": "their",
+          "noisy": "there",
+          "op": "replace"
+        },
+        {
+          "original": "They",
+          "noisy": "they",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the Securities",
+          "noisy": "SEC (Securities",
+          "op": "replace"
+        },
+        {
+          "original": "Commission (SEC). In addition to registering the issue with the SEC, they",
+          "noisy": "Commission) and",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "While the registration statement",
+          "noisy": "while it",
+          "op": "replace"
+        },
+        {
+          "original": "approval, underwriters",
+          "noisy": "approval they",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "price. They arrange",
+          "noisy": "price and arange",
+          "op": "replace"
+        },
+        {
+          "original": "investors. Immediately",
+          "noisy": "investors , immediately",
+          "op": "replace"
+        },
+        {
+          "original": "they receive",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the SEC, underwriters",
+          "noisy": "SEC they",
+          "op": "replace"
+        },
+        {
+          "original": "the issue price. After",
+          "noisy": "price and after",
+          "op": "replace"
+        },
+        {
+          "original": "they",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "then",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the public,",
+          "noisy": "public ,",
+          "op": "replace"
+        },
+        {
+          "original": "it.",
+          "noisy": "it",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "2_1": {
+      "edit_rate": 0.40229885057471265,
+      "reported_changes": [
+        {
+          "original": "At",
+          "noisy": "at",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "degraded. A",
+          "noisy": "degraded , a",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "then",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "department",
+          "noisy": "dept",
+          "op": "replace"
+        },
+        {
+          "original": "TELECO. At the customer service",
+          "noisy": "TELECO where",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Then the problem report",
+          "noisy": "then it",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "what the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "are. Based",
+          "noisy": ", based",
+          "op": "replace"
+        },
+        {
+          "original": "this, the",
+          "noisy": "this",
+          "op": "replace"
+        },
+        {
+          "original": "their",
+          "noisy": "there",
+          "op": "replace"
+        },
+        {
+          "original": "An",
+          "noisy": "an",
+          "op": "replace"
+        },
+        {
+          "original": "then",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "that has been",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "relationship. In",
+          "noisy": "relationship , in",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "premium, the",
+          "noisy": "premium",
+          "op": "replace"
+        },
+        {
+          "original": "will link",
+          "noisy": "links",
+          "op": "replace"
+        },
+        {
+          "original": "(this process will not be",
+          "noisy": "(not",
+          "op": "replace"
+        },
+        {
+          "original": "here). In",
+          "noisy": "here) , in",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "upon, the",
+          "noisy": "upon",
+          "op": "replace"
+        },
+        {
+          "original": "these measures",
+          "noisy": "them",
+          "op": "replace"
+        },
+        {
+          "original": "the process",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "Taking",
+          "noisy": "taking",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "created. The detailed problem report is then",
+          "noisy": "created and",
+          "op": "replace"
+        },
+        {
+          "original": "Management. Service",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": "(SM). SM",
+          "op": "insert"
+        },
+        {
+          "original": "that are",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "customers. After",
+          "noisy": "customers , after",
+          "op": "replace"
+        },
+        {
+          "original": "the detailed problem report, Service management",
+          "noisy": "report it",
+          "op": "replace"
+        },
+        {
+          "original": "whether the",
+          "noisy": "wheter",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "their department",
+          "noisy": "there dept",
+          "op": "replace"
+        },
+        {
+          "original": "whether the problem",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Provisioning. In case Service Management",
+          "noisy": "Provisioning (RP). if SM",
+          "op": "replace"
+        },
+        {
+          "original": "the problem",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "themselves, the detailed problem",
+          "noisy": "themselves",
+          "op": "replace"
+        },
+        {
+          "original": "Resource Provisioning. If Service Management is",
+          "noisy": "RP , if they are",
+          "op": "replace"
+        },
+        {
+          "original": "it,",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "they",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "that indicates the",
+          "noisy": "indicating",
+          "op": "replace"
+        },
+        {
+          "original": "After Resource Provisioning",
+          "noisy": "after RP",
+          "op": "replace"
+        },
+        {
+          "original": "the detailed problem report,",
+          "noisy": "report",
+          "op": "replace"
+        },
+        {
+          "original": "whether",
+          "noisy": "wheter",
+          "op": "replace"
+        },
+        {
+          "original": "problems. If no",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": ", if none",
+          "op": "insert"
+        },
+        {
+          "original": "detected,",
+          "noisy": "detected",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "created. If a problem",
+          "noisy": "created , if one",
+          "op": "replace"
+        },
+        {
+          "original": "this will be analyzed by Resource Provisioning",
+          "noisy": "RP analyzes it",
+          "op": "replace"
+        },
+        {
+          "original": "",
+          "noisy": "creates",
+          "op": "insert"
+        },
+        {
+          "original": "report is created. Either trouble report or the normal execution notification",
+          "noisy": "report. either one",
+          "op": "replace"
+        },
+        {
+          "original": "Service Management. Service Management then",
+          "noisy": "SM which",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Subsequently",
+          "noisy": "subsequently",
+          "op": "replace"
+        },
+        {
+          "original": "the information",
+          "noisy": "info",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "report. Three",
+          "noisy": "report , three",
+          "op": "replace"
+        },
+        {
+          "original": "For the case that",
+          "noisy": "if",
+          "op": "replace"
+        },
+        {
+          "original": "all, the",
+          "noisy": "all",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "For the case that",
+          "noisy": "if",
+          "op": "replace"
+        },
+        {
+          "original": "required, Service Management will undertake corrective actions",
+          "noisy": "required SM undertakes them",
+          "op": "replace"
+        },
+        {
+          "original": "themselves. Subsequently, the",
+          "noisy": "themselves , subsequently",
+          "op": "replace"
+        },
+        {
+          "original": "then",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Service. After sending,",
+          "noisy": "Service and after sending",
+          "op": "replace"
+        },
+        {
+          "original": "process",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Service Management",
+          "noisy": "SM",
+          "op": "replace"
+        },
+        {
+          "original": "For the case that",
+          "noisy": "if",
+          "op": "replace"
+        },
+        {
+          "original": "Resource Provisioning",
+          "noisy": "RP",
+          "op": "replace"
+        },
+        {
+          "original": "required, Service Management",
+          "noisy": "required SM",
+          "op": "replace"
+        },
+        {
+          "original": "automatic resource restoration. This message is then sent",
+          "noisy": "it and send it",
+          "op": "replace"
+        },
+        {
+          "original": "Resource Provisioning. Resource Provisioning",
+          "noisy": "RP , which",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "out,",
+          "noisy": "out",
+          "op": "replace"
+        },
+        {
+          "original": "Resource Provisioning",
+          "noisy": "RP",
+          "op": "replace"
+        },
+        {
+          "original": "After the restoration",
+          "noisy": "after",
+          "op": "replace"
+        },
+        {
+          "original": "received,",
+          "noisy": "received",
+          "op": "replace"
+        },
+        {
+          "original": "tracked. Based",
+          "noisy": "tracked , based",
+          "op": "replace"
+        },
+        {
+          "original": "the tracked errors,",
+          "noisy": "them",
+          "op": "replace"
+        },
+        {
+          "original": "Resource Provisioning. Then",
+          "noisy": "RP , then",
+          "op": "replace"
+        },
+        {
+          "original": "created. This report is",
+          "noisy": "created and",
+          "op": "replace"
+        },
+        {
+          "original": "Service Management;",
+          "noisy": "SM ;",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "The trouble-shooting report is received by Service Management",
+          "noisy": "SM receives it",
+          "op": "replace"
+        },
+        {
+          "original": "then",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "report. Then,",
+          "noisy": "report , then",
+          "op": "replace"
+        },
+        {
+          "original": "triggered,",
+          "noisy": "triggered ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the problem,",
+          "noisy": "problem ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "her. After",
+          "noisy": "her , after",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "After the",
+          "noisy": "after",
+          "op": "replace"
+        },
+        {
+          "original": "then",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Customer Service, the",
+          "noisy": "them",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "ends.",
+          "noisy": "ends",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "2_2": {
+      "edit_rate": 0.30414746543778803,
+      "reported_changes": [
+        {
+          "original": "request. In",
+          "noisy": "request , in",
+          "op": "replace"
+        },
+        {
+          "original": "so, the",
+          "noisy": "so",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "department",
+          "noisy": "dept",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Customer",
+          "noisy": "customer",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "The customer",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "this data",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "system. After customer data has been entered",
+          "noisy": "system , after that",
+          "op": "replace"
+        },
+        {
+          "original": "then",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "plausibility. In",
+          "noisy": "plausability , in",
+          "op": "replace"
+        },
+        {
+          "original": "any",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "of data",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "In",
+          "noisy": "in",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the customer",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "base,",
+          "noisy": "base",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "flow. This object",
+          "noisy": "flow , it",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "The generated customer object",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "used,",
+          "noisy": "used",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "connection,",
+          "noisy": "connection ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "rate,",
+          "noisy": "rate ,",
+          "op": "replace"
+        },
+        {
+          "original": "In",
+          "noisy": "in",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "their",
+          "noisy": "there",
+          "op": "replace"
+        },
+        {
+          "original": "In",
+          "noisy": "in",
+          "op": "replace"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "response,",
+          "noisy": "response ,",
+          "op": "replace"
+        },
+        {
+          "original": "the contract",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "generated, the",
+          "noisy": "generated ,",
+          "op": "replace"
+        },
+        {
+          "original": "resolved. Subsequently the contract",
+          "noisy": "resolved and",
+          "op": "replace"
+        },
+        {
+          "original": "are",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "again. In",
+          "noisy": "again , in",
+          "op": "replace"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "A",
+          "noisy": "a",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the CIS. It puts the question whether the",
+          "noisy": "CIS asking wheter",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "The switch-over request is checked by the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": "checks it",
+          "op": "insert"
+        },
+        {
+          "original": "concurrence,",
+          "noisy": "concurrence",
+          "op": "replace"
+        },
+        {
+          "original": "the grid operator",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "comment. In the",
+          "noisy": "comment , in",
+          "op": "replace"
+        },
+        {
+          "original": "the grid operator",
+          "noisy": "he",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "The grid operator",
+          "noisy": "he",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "If",
+          "noisy": "if",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "concurrence),",
+          "noisy": "concurrence)",
+          "op": "replace"
+        },
+        {
+          "original": "contract. The",
+          "noisy": "contract ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "check",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Depending",
+          "noisy": "depending",
+          "op": "replace"
+        },
+        {
+          "original": "the customer's",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "(in case of withdrawal)",
+          "noisy": "(withdrawal)",
+          "op": "replace"
+        },
+        {
+          "original": "(in case of a confirmation). An",
+          "noisy": "(confirmation).",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "continues. The",
+          "noisy": "continues ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "necessary",
+          "noisy": "neccessary",
+          "op": "replace"
+        },
+        {
+          "original": "in any way)",
+          "noisy": "anyway)",
+          "op": "replace"
+        },
+        {
+          "original": "it",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "On the switch-date,",
+          "noisy": "on switch-date ,",
+          "op": "replace"
+        },
+        {
+          "original": "begun, the",
+          "noisy": "begun ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "At the",
+          "noisy": "at",
+          "op": "replace"
+        },
+        {
+          "original": "time, the grid operator",
+          "noisy": "time he",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the old supplier. Likewise the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": ", who likewise",
+          "op": "insert"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "For the",
+          "noisy": "for",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "then. After",
+          "noisy": "then , after",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the meter data",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "",
+          "noisy": "information.",
+          "op": "insert"
+        },
+        {
+          "original": "information. The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "here.",
+          "noisy": "here",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "3_1": {
+      "edit_rate": 0.33653846153846156,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "released. The",
+          "noisy": "released ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the request",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "file. Then, the",
+          "noisy": "file , then",
+          "op": "replace"
+        },
+        {
+          "original": "The SCT",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the Police. When the report",
+          "noisy": "police , when it",
+          "op": "replace"
+        },
+        {
+          "original": "received, the",
+          "noisy": "received",
+          "op": "replace"
+        },
+        {
+          "original": "retrieved. Then,",
+          "noisy": "retrieved ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "document,",
+          "noisy": "document",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "SCT physical",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "After that,",
+          "noisy": "after that",
+          "op": "replace"
+        },
+        {
+          "original": "the physical SCT file",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "scope).",
+          "noisy": "scope)",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "3_2": {
+      "edit_rate": 0.3684210526315789,
+      "reported_changes": [
+        {
+          "original": "Each morning, the",
+          "noisy": "each morning",
+          "op": "replace"
+        },
+        {
+          "original": "checked,",
+          "noisy": "checked",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "day. If",
+          "noisy": "day , if",
+          "op": "replace"
+        },
+        {
+          "original": "files",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "missing,",
+          "noisy": "missing",
+          "op": "replace"
+        },
+        {
+          "original": "initiated,",
+          "noisy": "initiated",
+          "op": "replace"
+        },
+        {
+          "original": "the files",
+          "noisy": "they",
+          "op": "replace"
+        },
+        {
+          "original": "physically",
+          "noisy": "physicaly",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Once",
+          "noisy": "once",
+          "op": "replace"
+        },
+        {
+          "original": "the files",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "ready, these",
+          "noisy": "ready they",
+          "op": "replace"
+        },
+        {
+          "original": "the Associate,",
+          "noisy": "Associate",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "people. Afterwards, the",
+          "noisy": "people , afterwards",
+          "op": "replace"
+        },
+        {
+          "original": "conducted.",
+          "noisy": "conducted",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "3_3": {
+      "edit_rate": 0.5633802816901409,
+      "reported_changes": [
+        {
+          "original": "After",
+          "noisy": "after",
+          "op": "replace"
+        },
+        {
+          "original": "registered, it is examined by",
+          "noisy": "registered",
+          "op": "replace"
+        },
+        {
+          "original": "officer. The claims",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "then",
+          "noisy": "examines it and",
+          "op": "replace"
+        },
+        {
+          "original": "recommendation. This",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "is then checked by a",
+          "noisy": ", which",
+          "op": "replace"
+        },
+        {
+          "original": "who",
+          "noisy": "checks and",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "If the claim is marked as",
+          "noisy": "if its",
+          "op": "replace"
+        },
+        {
+          "original": "OK,",
+          "noisy": "OK",
+          "op": "replace"
+        },
+        {
+          "original": "is sent",
+          "noisy": "goes",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "repeated. If the claim is OK, the",
+          "noisy": "repeted , if OK",
+          "op": "replace"
+        },
+        {
+          "original": "proceeds.",
+          "noisy": "proceeds",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "3_6": {
+      "edit_rate": 0.49514563106796117,
+      "reported_changes": [
+        {
+          "original": "When",
+          "noisy": "when",
+          "op": "replace"
+        },
+        {
+          "original": "received, it is",
+          "noisy": "received its",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the organization. If not, the claimant",
+          "noisy": "organization , if not he",
+          "op": "replace"
+        },
+        {
+          "original": "that the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "rejected. Otherwise, the",
+          "noisy": "rejected , otherwise",
+          "op": "replace"
+        },
+        {
+          "original": "of the claim",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "evaluated. Based",
+          "noisy": "evaluated and based",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "claims),",
+          "noisy": "claims)",
+          "op": "replace"
+        },
+        {
+          "original": "the claimant. Once the forms are returned,",
+          "noisy": "him. once returned",
+          "op": "replace"
+        },
+        {
+          "original": "completeness. If the forms",
+          "noisy": "completness , if they",
+          "op": "replace"
+        },
+        {
+          "original": "details, the",
+          "noisy": "details",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "system,",
+          "noisy": "system",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "process. Otherwise, the",
+          "noisy": "process , otherwise",
+          "op": "replace"
+        },
+        {
+          "original": "the forms. Upon",
+          "noisy": "them and upon",
+          "op": "replace"
+        },
+        {
+          "original": "of the updated forms,",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "again.",
+          "noisy": "again",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "3_7": {
+      "edit_rate": 0.3522727272727273,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Documentation. This",
+          "noisy": "Documentation ,",
+          "op": "replace"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "an",
+          "noisy": "a",
+          "op": "replace"
+        },
+        {
+          "original": "Then, the claims handler",
+          "noisy": "he then",
+          "op": "replace"
+        },
+        {
+          "original": "an",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "an",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the Document Management system. Based",
+          "noisy": "DMS and based",
+          "op": "replace"
+        },
+        {
+          "original": "the Action Plan, a",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "claim estimate. The",
+          "noisy": "estimate ,",
+          "op": "replace"
+        },
+        {
+          "original": "the outcome,",
+          "noisy": "outcome",
+          "op": "replace"
+        },
+        {
+          "original": "the process.",
+          "noisy": "process",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "3_8": {
+      "edit_rate": 0.41836734693877553,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "documentation. The",
+          "noisy": "documentation ,",
+          "op": "replace"
+        },
+        {
+          "original": "department",
+          "noisy": "dept",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the documents",
+          "noisy": "them",
+          "op": "replace"
+        },
+        {
+          "original": "the claim. Then, the",
+          "noisy": "it. then",
+          "op": "replace"
+        },
+        {
+          "original": "department",
+          "noisy": "dept",
+          "op": "replace"
+        },
+        {
+          "original": "",
+          "noisy": "it",
+          "op": "insert"
+        },
+        {
+          "original": "the claim",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the insurance. Then,",
+          "noisy": "insurance and",
+          "op": "replace"
+        },
+        {
+          "original": "performed. If the assessment is positive,",
+          "noisy": "performed , if positive",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "order). Otherwise, the",
+          "noisy": "order) otherwise",
+          "op": "replace"
+        },
+        {
+          "original": "In",
+          "noisy": "in",
+          "op": "replace"
+        },
+        {
+          "original": "(whether the outcome is",
+          "noisy": "(wheter",
+          "op": "replace"
+        },
+        {
+          "original": "negative),",
+          "noisy": "negative)",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "to be complete.",
+          "noisy": "complete",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "5_2": {
+      "edit_rate": 0.4166666666666667,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "request. Once the",
+          "noisy": "request , once",
+          "op": "replace"
+        },
+        {
+          "original": "registered, the request",
+          "noisy": "registered it",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the vacation. The supervisor",
+          "noisy": "vacation who",
+          "op": "replace"
+        },
+        {
+          "original": "the request. If the request is rejected, the",
+          "noisy": "it. if rejected",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "reasons. If the request is",
+          "noisy": "reasons , if",
+          "op": "replace"
+        },
+        {
+          "original": "the Human Resources Representative,",
+          "noisy": "HR Representative",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "procedures.",
+          "noisy": "procedures",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "5_4": {
+      "edit_rate": 0.3829787234042553,
+      "reported_changes": [
+        {
+          "original": "An",
+          "noisy": "an",
+          "op": "replace"
+        },
+        {
+          "original": "requires. For instance,",
+          "noisy": "requires , for instance",
+          "op": "replace"
+        },
+        {
+          "original": "The employee",
+          "noisy": "he",
+          "op": "replace"
+        },
+        {
+          "original": "items,",
+          "noisy": "items",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "item. A",
+          "noisy": "item , a",
+          "op": "replace"
+        },
+        {
+          "original": "the expense report",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "the report. Since the",
+          "noisy": "it. since",
+          "op": "replace"
+        },
+        {
+          "original": "rules,",
+          "noisy": "rules",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the report",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "inspection. These",
+          "noisy": "inspection , these",
+          "op": "replace"
+        },
+        {
+          "original": "automated,",
+          "noisy": "automated",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": "supervisor. if he rejects report",
+          "op": "insert"
+        },
+        {
+          "original": "supervisor. If the supervisor rejects the report, the employee,",
+          "noisy": "employee",
+          "op": "replace"
+        },
+        {
+          "original": "it,",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "it,",
+          "noisy": "it ,",
+          "op": "replace"
+        },
+        {
+          "original": "an",
+          "noisy": "a",
+          "op": "replace"
+        },
+        {
+          "original": "If the supervisor",
+          "noisy": "if he",
+          "op": "replace"
+        },
+        {
+          "original": "the report,",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the treasurer. The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "",
+          "noisy": "who",
+          "op": "insert"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the list. If",
+          "noisy": "list , if",
+          "op": "replace"
+        },
+        {
+          "original": "order, the",
+          "noisy": "order",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "(including, e.g.,",
+          "noisy": "(including e.g.",
+          "op": "replace"
+        },
+        {
+          "original": "refund,",
+          "noisy": "refund ,",
+          "op": "replace"
+        },
+        {
+          "original": "accounting). If",
+          "noisy": "accounting) , if",
+          "op": "replace"
+        },
+        {
+          "original": "the report,",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "If",
+          "noisy": "if",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "corrections,",
+          "noisy": "corrections",
+          "op": "replace"
+        },
+        {
+          "original": "supervisor,",
+          "noisy": "supervisor ,",
+          "op": "replace"
+        },
+        {
+          "original": "the supervisor",
+          "noisy": "he",
+          "op": "replace"
+        },
+        {
+          "original": "the report. If the",
+          "noisy": "it. if",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "processing, the",
+          "noisy": "processing",
+          "op": "replace"
+        },
+        {
+          "original": "system. The",
+          "noisy": "system ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "confirmation. After the payment",
+          "noisy": "confirmation and after it",
+          "op": "replace"
+        },
+        {
+          "original": "confirmed, the",
+          "noisy": "confirmed",
+          "op": "replace"
+        },
+        {
+          "original": "ends.",
+          "noisy": "ends",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "6_1": {
+      "edit_rate": 0.33254716981132076,
+      "reported_changes": [
+        {
+          "original": "principle,",
+          "noisy": "principle",
+          "op": "replace"
+        },
+        {
+          "original": "fax. These",
+          "noisy": "fax , these",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "In",
+          "noisy": "in",
+          "op": "replace"
+        },
+        {
+          "original": "\",",
+          "noisy": "\" ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "AG,",
+          "noisy": "AG ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "(invoice). She",
+          "noisy": "(invoice) ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "separate",
+          "noisy": "seperate",
+          "op": "replace"
+        },
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the list. He",
+          "noisy": "list , he",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the copy of the invoice. Should",
+          "noisy": "it. should",
+          "op": "replace"
+        },
+        {
+          "original": "order,",
+          "noisy": "order",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "of the invoice",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "mail. From it, the",
+          "noisy": "mail , from it",
+          "op": "replace"
+        },
+        {
+          "original": "of the invoice",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "manager,",
+          "noisy": "manager",
+          "op": "replace"
+        },
+        {
+          "original": "the docket,",
+          "noisy": "docket",
+          "op": "replace"
+        },
+        {
+          "original": "correct,",
+          "noisy": "correct",
+          "op": "replace"
+        },
+        {
+          "original": "Therefore, the",
+          "noisy": "therefore",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "However,",
+          "noisy": "however",
+          "op": "replace"
+        },
+        {
+          "original": "exist,",
+          "noisy": "exist ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "quality, the",
+          "noisy": "quality ,",
+          "op": "replace"
+        },
+        {
+          "original": "the docket,",
+          "noisy": "docket",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "of the invoice",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Based",
+          "noisy": "based",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the cost center managers,",
+          "noisy": "managers",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the vendor, but,",
+          "noisy": "vendor but",
+          "op": "replace"
+        },
+        {
+          "original": "necessary, she",
+          "noisy": "necessary",
+          "op": "replace"
+        },
+        {
+          "original": "the cost center managers",
+          "noisy": "them",
+          "op": "replace"
+        },
+        {
+          "original": "When",
+          "noisy": "when",
+          "op": "replace"
+        },
+        {
+          "original": "resolved, the",
+          "noisy": "resolved",
+          "op": "replace"
+        },
+        {
+          "original": "of the invoice",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "again,",
+          "noisy": "again",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "After",
+          "noisy": "after",
+          "op": "replace"
+        },
+        {
+          "original": "AP, the",
+          "noisy": "AP",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "of the invoice",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "manager. He",
+          "noisy": "manager who",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "payment. If the",
+          "noisy": "payment , if",
+          "op": "replace"
+        },
+        {
+          "original": "20, the",
+          "noisy": "20",
+          "op": "replace"
+        },
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the appropriate",
+          "noisy": "appropiate",
+          "op": "replace"
+        },
+        {
+          "original": "Should",
+          "noisy": "should",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "audit,",
+          "noisy": "audit she resolves",
+          "op": "replace"
+        },
+        {
+          "original": "will be resolved by the accounting employee",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the supplier. After the commercial",
+          "noisy": "supplier , after",
+          "op": "replace"
+        },
+        {
+          "original": "completed, the accounting employee",
+          "noisy": "completed she",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "\".",
+          "noisy": "\"",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "6_2": {
+      "edit_rate": 0.375,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "month,",
+          "noisy": "month",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "in order",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the supplier.",
+          "noisy": "supplier",
+          "op": "replace"
+        },
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the order.",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "The supplier",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "an",
+          "noisy": "a",
+          "op": "replace"
+        },
+        {
+          "original": "AG.",
+          "noisy": "AG",
+          "op": "replace"
+        },
+        {
+          "original": "Assembler AG receives the invoice.",
+          "noisy": "it recieves it",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "6_4": {
+      "edit_rate": 0.33157894736842103,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "customers. This",
+          "noisy": "customers ,",
+          "op": "replace"
+        },
+        {
+          "original": "Sometimes,",
+          "noisy": "sometimes",
+          "op": "replace"
+        },
+        {
+          "original": "calls, sometimes,",
+          "noisy": "calls , sometimes",
+          "op": "replace"
+        },
+        {
+          "original": "sometimes,",
+          "noisy": "sometimes",
+          "op": "replace"
+        },
+        {
+          "original": "somebody,",
+          "noisy": "somebody",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Then",
+          "noisy": "then",
+          "op": "replace"
+        },
+        {
+          "original": "the customer. That is",
+          "noisy": "them ,",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "staff. They",
+          "noisy": "staff who",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Of course,",
+          "noisy": "of course",
+          "op": "replace"
+        },
+        {
+          "original": "the customer",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "generally",
+          "noisy": "generaly",
+          "op": "replace"
+        },
+        {
+          "original": "important. If this is",
+          "noisy": "important , if",
+          "op": "replace"
+        },
+        {
+          "original": "the case,",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "alone,",
+          "noisy": "alone",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "huge. Then the",
+          "noisy": "huge , then",
+          "op": "replace"
+        },
+        {
+          "original": "personally",
+          "noisy": "personaly",
+          "op": "replace"
+        },
+        {
+          "original": "the customer. If the customer",
+          "noisy": "him. if he",
+          "op": "replace"
+        },
+        {
+          "original": "end, the",
+          "noisy": "end",
+          "op": "replace"
+        },
+        {
+          "original": "presentation. It is",
+          "noisy": "presentation",
+          "op": "replace"
+        },
+        {
+          "original": "representative",
+          "noisy": "rep",
+          "op": "replace"
+        },
+        {
+          "original": "a",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Afterwards",
+          "noisy": "afterwards",
+          "op": "replace"
+        },
+        {
+          "original": "the customer",
+          "noisy": "him",
+          "op": "replace"
+        },
+        {
+          "original": "us. If",
+          "noisy": "us , if",
+          "op": "replace"
+        },
+        {
+          "original": "weeks,",
+          "noisy": "weeks",
+          "op": "replace"
+        },
+        {
+          "original": "representative",
+          "noisy": "rep",
+          "op": "replace"
+        },
+        {
+          "original": "the customer. The",
+          "noisy": "him.",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "quotation.",
+          "noisy": "quotation",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "7_1": {
+      "edit_rate": 0.43859649122807015,
+      "reported_changes": [
+        {
+          "original": "First, the",
+          "noisy": "First",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "leads. Afterwards, he",
+          "noisy": "leads and afterwards",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "ones. He",
+          "noisy": "ones ,",
+          "op": "replace"
+        },
+        {
+          "original": "the leads. The",
+          "noisy": "them.",
+          "op": "replace"
+        },
+        {
+          "original": "customer. If",
+          "noisy": "customer , if",
+          "op": "replace"
+        },
+        {
+          "original": "interested,",
+          "noisy": "intrested",
+          "op": "replace"
+        },
+        {
+          "original": "the Manager. The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "then",
+          "noisy": "who",
+          "op": "replace"
+        },
+        {
+          "original": "lead. Otherwise,",
+          "noisy": "lead , otherwise",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "customer.",
+          "noisy": "",
+          "op": "delete"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "8_2": {
+      "edit_rate": 0.3977272727272727,
+      "reported_changes": [
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "When",
+          "noisy": "when",
+          "op": "replace"
+        },
+        {
+          "original": "me,",
+          "noisy": "me",
+          "op": "replace"
+        },
+        {
+          "original": "the information. Sometimes",
+          "noisy": "information , sometimes",
+          "op": "replace"
+        },
+        {
+          "original": "the message,",
+          "noisy": "message",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the job description",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "the approval. But,",
+          "noisy": "approval , but",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "it,",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "it,",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "correction. Then",
+          "noisy": "correction , then",
+          "op": "replace"
+        },
+        {
+          "original": "the description",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "it again for consideration. If the description is finally approved,",
+          "noisy": "again. if its finaly approved",
+          "op": "replace"
+        },
+        {
+          "original": "the job.",
+          "noisy": "job",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "8_3": {
+      "edit_rate": 0.2988505747126437,
+      "reported_changes": [
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "When",
+          "noisy": "when",
+          "op": "replace"
+        },
+        {
+          "original": "requirements,",
+          "noisy": "requirements",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Department. Then",
+          "noisy": "Department , then",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Under",
+          "noisy": "under",
+          "op": "replace"
+        },
+        {
+          "original": "circumstances,",
+          "noisy": "circumstances",
+          "op": "replace"
+        },
+        {
+          "original": "again,",
+          "noisy": "again",
+          "op": "replace"
+        },
+        {
+          "original": "the job description. Sometimes",
+          "noisy": "it , sometimes",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "department",
+          "noisy": "dept",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the job. Then",
+          "noisy": "job , then",
+          "op": "replace"
+        },
+        {
+          "original": "clarifications,",
+          "noisy": "clarifications",
+          "op": "replace"
+        },
+        {
+          "original": "course.",
+          "noisy": "course",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "9_1": {
+      "edit_rate": 0.35333333333333333,
+      "reported_changes": [
+        {
+          "original": "Every",
+          "noisy": "every",
+          "op": "replace"
+        },
+        {
+          "original": "morning, the",
+          "noisy": "morning",
+          "op": "replace"
+        },
+        {
+          "original": "it is",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "whether the",
+          "noisy": "wheter",
+          "op": "replace"
+        },
+        {
+          "original": "records. If",
+          "noisy": "records , if",
+          "op": "replace"
+        },
+        {
+          "original": "found,",
+          "noisy": "found",
+          "op": "replace"
+        },
+        {
+          "original": "the process should",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "to see",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "If new returns exist, then",
+          "noisy": "if so",
+          "op": "replace"
+        },
+        {
+          "original": "customers. If the",
+          "noisy": "customers , if",
+          "op": "replace"
+        },
+        {
+          "original": "advised,",
+          "noisy": "advised",
+          "op": "replace"
+        },
+        {
+          "original": "defaulting accounts",
+          "noisy": "them",
+          "op": "replace"
+        },
+        {
+          "original": "All",
+          "noisy": "all",
+          "op": "replace"
+        },
+        {
+          "original": "pm,",
+          "noisy": "pm ,",
+          "op": "replace"
+        },
+        {
+          "original": "it is not, then",
+          "noisy": "not",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Once the",
+          "noisy": "once",
+          "op": "replace"
+        },
+        {
+          "original": "completed,",
+          "noisy": "completed",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "to see",
+          "noisy": "again",
+          "op": "replace"
+        },
+        {
+          "original": "filed. If new returns have been filed,",
+          "noisy": "filed , if yes",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "table. This",
+          "noisy": "table ,",
+          "op": "replace"
+        },
+        {
+          "original": "message.",
+          "noisy": "message",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "9_2": {
+      "edit_rate": 0.29591836734693877,
+      "reported_changes": [
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "a reply. If the customer",
+          "noisy": "reply , if he",
+          "op": "replace"
+        },
+        {
+          "original": "the mortgage, the",
+          "noisy": "it",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "then",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "If the customer",
+          "noisy": "if he",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "documents then the",
+          "noisy": "ones",
+          "op": "replace"
+        },
+        {
+          "original": "If",
+          "noisy": "if",
+          "op": "replace"
+        },
+        {
+          "original": "the customer",
+          "noisy": "him",
+          "op": "replace"
+        },
+        {
+          "original": "documents. If",
+          "noisy": "documents , if",
+          "op": "replace"
+        },
+        {
+          "original": "received",
+          "noisy": "recieved",
+          "op": "replace"
+        },
+        {
+          "original": "weeks, the",
+          "noisy": "weeks",
+          "op": "replace"
+        },
+        {
+          "original": "cancellation.",
+          "noisy": "cancellation",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "9_3": {
+      "edit_rate": 0.24691358024691357,
+      "reported_changes": [
+        {
+          "original": "In",
+          "noisy": "in",
+          "op": "replace"
+        },
+        {
+          "original": "year, the",
+          "noisy": "year",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "calendars. The",
+          "noisy": "calendars ,",
+          "op": "replace"
+        },
+        {
+          "original": "the dates",
+          "noisy": "them",
+          "op": "replace"
+        },
+        {
+          "original": "modifications. The Coordination Unit then",
+          "noisy": "modifications and unit",
+          "op": "replace"
+        },
+        {
+          "original": "The",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "email,",
+          "noisy": "email",
+          "op": "replace"
+        },
+        {
+          "original": "their",
+          "noisy": "there",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "conflicts.",
+          "noisy": "conflicts",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "9_4": {
+      "edit_rate": 0.25510204081632654,
+      "reported_changes": [
+        {
+          "original": "Once the",
+          "noisy": "once",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Unit), the",
+          "noisy": "Unit)",
+          "op": "replace"
+        },
+        {
+          "original": "and",
+          "noisy": ",",
+          "op": "replace"
+        },
+        {
+          "original": "documents. The Committee Members",
+          "noisy": "documents , they",
+          "op": "replace"
+        },
+        {
+          "original": "their meeting,",
+          "noisy": "there meeting",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "then",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "Committee Member. Within",
+          "noisy": "member. within",
+          "op": "replace"
+        },
+        {
+          "original": "days, the",
+          "noisy": "days",
+          "op": "replace"
+        },
+        {
+          "original": "the minutes,",
+          "noisy": "minutes",
+          "op": "replace"
+        },
+        {
+          "original": "Members. The",
+          "noisy": "Members and",
+          "op": "replace"
+        },
+        {
+          "original": "then",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "records.",
+          "noisy": "records",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    },
+    "9_5": {
+      "edit_rate": 0.29914529914529914,
+      "reported_changes": [
+        {
+          "original": "After the",
+          "noisy": "after",
+          "op": "replace"
+        },
+        {
+          "original": "received,",
+          "noisy": "received",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "one. The",
+          "noisy": "one ,",
+          "op": "replace"
+        },
+        {
+          "original": "Amounts",
+          "noisy": "amounts",
+          "op": "replace"
+        },
+        {
+          "original": "automatically approved,",
+          "noisy": "automaticaly approved",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "In",
+          "noisy": "in",
+          "op": "replace"
+        },
+        {
+          "original": "rejection, the",
+          "noisy": "rejection",
+          "op": "replace"
+        },
+        {
+          "original": "email. Otherwise, the",
+          "noisy": "email , otherwise",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "If the",
+          "noisy": "if",
+          "op": "replace"
+        },
+        {
+          "original": "days, then the employee",
+          "noisy": "days he",
+          "op": "replace"
+        },
+        {
+          "original": "an",
+          "noisy": "a",
+          "op": "replace"
+        },
+        {
+          "original": "email. If the request",
+          "noisy": "email , if it",
+          "op": "replace"
+        },
+        {
+          "original": "days, then the",
+          "noisy": "days",
+          "op": "replace"
+        },
+        {
+          "original": "the employee",
+          "noisy": "he",
+          "op": "replace"
+        },
+        {
+          "original": "the",
+          "noisy": "",
+          "op": "delete"
+        },
+        {
+          "original": "report.",
+          "noisy": "report",
+          "op": "replace"
+        }
+      ],
+      "source": "claude-session, prompt in noise_prompt.txt"
+    }
+  }
+}

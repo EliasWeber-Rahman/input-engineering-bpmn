@@ -1,0 +1,1 @@
+INQ transmits transaction data request to IP , IP checks it and answers question of INQ depending on outcome of examination i.e. transmission of data or rejection

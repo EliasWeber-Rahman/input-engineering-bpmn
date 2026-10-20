@@ -1,0 +1,1 @@
+MSPO deregisters at GO , GO verifies deregistration and rejects it or preliminarily confirms it , assigns himself as MSP and informs MSPO about end of the assignment and beginning of assignement of GO , MPO and SP are informed about it to

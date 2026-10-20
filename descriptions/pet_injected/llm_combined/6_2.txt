@@ -1,0 +1,1 @@
+process starts periodically on first of each month when Assembler AG places an order with supplier to request more product parts. a) Assembler AG sends order to supplier b) supplier processes it c) sends a invoice to Assembler AG d) it recieves it
