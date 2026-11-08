@@ -21,28 +21,47 @@ sentence decomposition) that cleans process descriptions before a process model 
 
 ## Run (from the project root, venv active)
 
-Baseline vs. pipeline configs:
-```
-python run.py generate
-python run.py evaluate
-```
+### Experiment 1: Impact of Linguistic Noise
 
-RQ2 (noised PET descriptions):
+Gemini (AutoBPMN):
 ```
 python run.py inject-pet
 python run.py generate-injected
 python run.py evaluate-injected
 ```
 
-RQ3 (pipeline on noised PET):
+Llama (local, one run per description):
+```
+python run.py generate-mermaid-injected
+python run.py convert-mermaid --dataset pet_injected
+python run.py evaluate-injected --model llama --n-runs 1
+```
+
+### Experiment 2: Effect of Input Engineering
+
+Gemini (AutoBPMN):
 ```
 python run.py build-pipeline-injected
 python run.py generate-pipeline-injected
 python run.py evaluate-pipeline-injected
 ```
 
-Local llama (instead of AutoBPMN): run `generate-mermaid-local`,
-`generate-mermaid-injected` or `generate-mermaid-pipeline-injected`, then
-`convert-mermaid`, then the matching evaluate command with `--model llama`.
+Llama (local, one run per description):
+```
+python run.py generate-mermaid-pipeline-injected
+python run.py convert-mermaid --dataset deterministic_pipeline
+python run.py evaluate-pipeline-injected --model llama --n-runs 1
+```
+
+### Complementary Experiment: LLM-Generated Noise (Gemini only)
+
+The LLM-generated descriptions are in `descriptions/pet_injected/llm_combined`.
+```
+python run.py generate-injected --categories clean llm_combined
+python run.py evaluate-injected
+python run.py build-pipeline-injected
+python run.py generate-pipeline-injected --categories llm_combined
+python run.py evaluate-pipeline-injected
+```
 
 Results are written to `results/`, generated XML to `cpee-models/generated/`.
