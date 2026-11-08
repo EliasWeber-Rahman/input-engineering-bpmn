@@ -8,8 +8,8 @@ sentence decomposition) that cleans process descriptions before a process model 
 1. Clone the repo and open a terminal in the project root.
 2. Create and activate a virtual environment:
    ```
-   python3 -m venv .venv
-   source .venv/bin/activate
+   python3 -m venv input-engineering-venv
+   source input-engineering-venv/bin/activate
    ```
 3. Install dependencies:
    ```
